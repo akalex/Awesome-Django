@@ -1,4 +1,4 @@
 Django
 ======
 
-Assembly of Django projects
+Collection of Django projects
