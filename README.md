@@ -1,4 +1,4 @@
-Django
+Awesome-Django
 ======
 
 Collection of Django projects
